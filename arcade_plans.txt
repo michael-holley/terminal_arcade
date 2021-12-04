@@ -1,0 +1,13 @@
+Future Features for the arcade:
+Username with high score
+Coin system-maybe a gambling system for each game
+An option to choose what game to play
+
+
+
+Games for the arcade:
+Tic Tac Toe
+Black Jack
+Number Guesser
+Snake game
+Connect 4
